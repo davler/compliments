@@ -1,28 +1,31 @@
 {
     "anytime" : [
-        "Hoy estás muy guapo!",
+        "Buenos días Pablo. \nHoy estás muy guapo!",
         "Avui serà un gran dia!",
-        "Vamooooooooooooos Pichón!",
-        "Los ojos que te ven... Guapo!"
+        "Vamooooooos Pichón!",
+        "Los ojos que te ven... Guapo!",
+        "Si la vida te da un limón, \nhaz limonada."
     ],
     "morning" : [
-        "Pablo: Bon dia guapo!",
-        "Pablo: Baixa a esmortzar amb un sonriure",
-        "Pablo: Ets un Crack!"
+        "Bon dia guapo!",
+        "Baixa a esmortzar amb un sonriure",
+        "Ets un Crack!",
+        "Cuanto mejor te sientes sobre ti mismo, \nmenos necesitas enseñarlo"
     ],
     "afternoon" : [
-        "Pablo: Hitting your stride!",
-        "Pablo: Estas fen coses bones!",
-        "Pablo: Ets més divertit que una baldufa!"
+        "Vamos avanzando...!",
+        "Estàs fent coses bones!",
+        "Ets més divertit que una baldufa!"
     ],
     "evening" : [
-        "Pablo: Avui has fet sonriure algú, ho sé",
-        "Pablo: Estàs marcan la diferència.",
-        "Pablo: El dia a sigut molt bó gracies al teu esforç."
+        "Avui has fet sonriure algú, ho sé!",
+        "Estàs marcan la diferència.",
+        "El dia a sigut molt bó \ngràcies al teu esforç."
     ],
     "rain" : [
-        "Pablo: Agafa el paraigües que plou",
-        "Pablo: t'has posat les botes d'aigua?"
+        "Agafa el paraigües que plou",
+        "t'has posat les botes d'aigua?",
+        "espero que no et mullis molt!"
     ],
     "....-11-20": [
         "Feliz Cumpleaño Mami!"

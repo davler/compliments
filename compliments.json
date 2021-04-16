@@ -19,8 +19,9 @@
     ],
     "evening" : [
         "Avui has fet sonriure algú, ho sé!",
-        "Estàs marcan la diferència.",
-        "El dia a sigut molt bó \ngràcies al teu esforç."
+        "Estàs marcant la diferència.",
+        "El dia ha sigut molt bó \ngràcies al teu esforç.",
+        "Vinga a dormir \nDemà serà un altre dia"
     ],
     "rain" : [
         "Agafa el paraigües que plou",

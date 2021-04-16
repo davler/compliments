@@ -21,12 +21,13 @@
         "Avui has fet sonriure algú, ho sé!",
         "Estàs marcant la diferència.",
         "El dia ha sigut molt bó \ngràcies al teu esforç.",
-        "Vinga a dormir \nDemà serà un altre dia"
+        "Vinga a dormir \nDemà serà un altre dia",
+        "Bona Nit!"
     ],
     "rain" : [
         "Agafa el paraigües que plou",
-        "t'has posat les botes d'aigua?",
-        "espero que no et mullis molt!"
+        "T'has posat les botes d'aigua?",
+        "Espero que no et mullis molt!"
     ],
     "....-11-20": [
         "Feliz Cumpleaño Mami!"

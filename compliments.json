@@ -4,7 +4,10 @@
         "Avui serà un gran dia!",
         "Vamooooooos Pichón!",
         "Los ojos que te ven... Guapo!",
-        "Si la vida te da un limón, \nhaz limonada."
+        "Si la vida te da un limón, \nhaz limonada.",
+        "Quien duerme mucho, poco aprende",
+        "En boca cerrada no entran moscas",
+        "Recorda tenir respecte als professors \ni tothom, esclar!"
     ],
     "morning" : [
         "Bon dia guapo!",
@@ -15,7 +18,8 @@
     "afternoon" : [
         "Vamos avanzando...!",
         "Estàs fent coses bones!",
-        "Ets més divertit que una baldufa!"
+        "Ets més divertit que una baldufa!",
+        "En cien años todos seremos calvos"
     ],
     "evening" : [
         "Avui has fet sonriure algú, ho sé!",

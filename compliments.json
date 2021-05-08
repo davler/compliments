@@ -7,31 +7,37 @@
         "Si la vida te da un limón, \nhaz limonada.",
         "Quien duerme mucho, poco aprende",
         "En boca cerrada no entran moscas",
-        "Recorda tenir respecte als professors \ni tothom, esclar!"
+        "Recorda tenir respecte als professors \ni als teus companys, i a tothom esclar!",
+        "Nunca te olvides de sonreír \nporque el día que no sonrías \nserá un día perdido"
     ],
     "morning" : [
         "Bon dia guapo!",
         "Baixa a esmortzar amb un sonriure",
         "Ets un Crack!",
-        "Cuanto mejor te sientes sobre ti mismo, \nmenos necesitas enseñarlo"
+        "Cuanto mejor te sientes sobre ti mismo \nmenos necesitas enseñarlo",
+        "La vida es maravillosa si no se le tiene miedo",
+        "No reírse de nada es de tontos \nreírse de todo es de estúpidos"
     ],
     "afternoon" : [
         "Vamos avanzando...!",
         "Estàs fent coses bones!",
         "Ets més divertit que una baldufa!",
-        "En cien años todos seremos calvos"
+        "En cien años todos seremos calvos",
+        "No esperes a que te toque el turno de hablar \nescucha de veras y serás diferente"
     ],
     "evening" : [
         "Avui has fet sonriure algú, ho sé!",
         "Estàs marcant la diferència.",
         "El dia ha sigut molt bó \ngràcies al teu esforç.",
         "Vinga a dormir \nDemà serà un altre dia",
-        "Bona Nit!"
+        "Bona Nit!",
+        "Sé tú, e intenta ser feliz \npero sobre todo, sé tú"
     ],
     "rain" : [
         "Agafa el paraigües que plou",
         "T'has posat les botes d'aigua?",
-        "Espero que no et mullis molt!"
+        "Espero que no et mullis molt!",
+        "Te vas a mojar...."
     ],
     "....-11-20": [
         "Feliz Cumpleaño Mami!"

@@ -1,9 +1,11 @@
 {
     "anytime" : [
         "Buenos días Pablo. \nHoy estás muy guapo!",
+        "Bon dia Maria. \nAvui estàs guapíssima!",
         "Avui serà un gran dia!",
-        "Vamooooooos Pichón!",
-        "Los ojos que te ven... Guapo!",
+        "Vamooooooos Pichones!",
+        "Los ojos que te ven... Pablo Preciòs!",
+        "Los ojos que te ven... Maria Guapa!",
         "Si la vida te da un limón, \nhaz limonada.",
         "Quien duerme mucho, poco aprende",
         "En boca cerrada no entran moscas",
@@ -12,8 +14,10 @@
     ],
     "morning" : [
         "Bon dia guapo!",
+        "Buenos días MAMI!",
         "Baixa a esmortzar amb un sonriure",
-        "Ets un Crack!",
+        "Pablo, Ets un Crack!",
+        "Maria; Ets una Crack!",
         "Cuanto mejor te sientes sobre ti mismo \nmenos necesitas enseñarlo",
         "La vida es maravillosa si no se le tiene miedo",
         "No reírse de nada es de tontos \nreírse de todo es de estúpidos"
@@ -22,12 +26,14 @@
         "Vamos avanzando...!",
         "Estàs fent coses bones!",
         "Ets més divertit que una baldufa!",
+        "Guapa, preciosa!",
         "En cien años todos seremos calvos",
         "No esperes a que te toque el turno de hablar \nescucha de veras y serás diferente"
     ],
     "evening" : [
         "Avui has fet sonriure algú, ho sé!",
         "Estàs marcant la diferència.",
+        "Vinga renta't els dents.",
         "El dia ha sigut molt bó \ngràcies al teu esforç.",
         "Vinga a dormir \nDemà serà un altre dia",
         "Bona Nit!",
